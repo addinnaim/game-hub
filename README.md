@@ -1,8 +1,8 @@
-#GameHub
+# GameHub
 
 GameHub is a video game discovery web app that helps users find games to play.
 
-#Getting Started
+# Getting Started
 
 To get started with GameHub, follow these steps:
 
@@ -13,6 +13,6 @@ To get started with GameHub, follow these steps:
 5. Run npm run dev to start the web server.
 
 
-# This is an example project written in Typescript for discovering video games. A mini version of a website called rawg.io. 
+*This is an example project written in Typescript for discovering video games. A mini version of a website called rawg.io. 
 Sill haven’t finish implementing routing using react router. For global state management, am planning to use Zustand instead of Redux. 
 Will finish up soon.
