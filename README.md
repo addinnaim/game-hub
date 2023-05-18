@@ -1,8 +1,8 @@
-GameHub
+#GameHub
 
 GameHub is a video game discovery web app that helps users find games to play.
 
-Getting Started
+#Getting Started
 
 To get started with GameHub, follow these steps:
 
