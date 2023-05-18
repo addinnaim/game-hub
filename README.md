@@ -1,6 +1,8 @@
 # GameHub
 
-GameHub is a video game discovery web app that helps users find games to play.
+GameHub is a video game discovery web app that helps users find games to play. 
+
+To view app go to right corner of repository at About and click the link. 
 
 # Getting Started
 
